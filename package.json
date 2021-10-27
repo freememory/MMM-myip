@@ -1,0 +1,15 @@
+{
+  "name": "mmm-myip",
+  "version": "1.0.0",
+  "description": "Basic internal/external IP info",
+  "main": "MMM-myip.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "internal-ip": "6.2.0",
+    "public-ip": "^4.0.4"
+  }
+}
